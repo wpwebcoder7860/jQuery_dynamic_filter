@@ -5,22 +5,22 @@ A lightweight **JavaScript form validation helper** built on top of
 
 It allows you to:
 
--   Skip required validation for specific fields\
--   Add **custom pattern rules**\
--   Add **minimum/maximum length validation**\
--   Add **custom messages** (single or multiple)\
--   Support **multiple fields at once**\
+-   Skip required validation for specific fields
+-   Add **custom pattern rules**
+-   Add **minimum/maximum length validation**
+-   Add **custom messages** (single or multiple)
+-   Support **multiple fields at once**
 -   Fully configurable, easy to maintain and scale
 
 ------------------------------------------------------------------------
 
 ## 📌 Table of Contents
 
-1.  Installation\
-2.  Basic Usage\
-3.  Methods\
-4.  Complete Example Workflow\
-5.  Notes\
+1.  Installation
+2.  Basic Usage
+3.  Methods
+4.  Complete Example Workflow
+5.  Notes
 6.  Contribution
 
 ------------------------------------------------------------------------
