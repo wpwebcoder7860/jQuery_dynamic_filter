@@ -166,8 +166,8 @@ filter.init("#addMenuForm", {
 
 ## 📝 Notes
 
--   Works with jQuery Validate plugin\
--   Supports dynamic field configuration before initialization\
+-   Works with jQuery Validate plugin
+-   Supports dynamic field configuration before initialization
 -   Default messages apply if custom messages are not provided
 
 ------------------------------------------------------------------------
